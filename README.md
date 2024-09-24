@@ -8,7 +8,7 @@ Sou Desenvolvedor full-stack com 2 anos de experiência profissional e 7 anos co
 | --------------: | ------------------------------------------ |
 |       Front-end | HTML, CSS, JavaScript                      |
 |        Back-end | PHP, Python, C#, Node.JS, TypeScript, Java |
-|      Frameworks | Bootstrap, React, Django                   |
+|      Frameworks | Bootstrap, React, Django, Laravel          |
 | Bancos de Dados | MySQL, PostgreSQL, MongoDB                 |
 |     Ferramentas | Git, Docker                                |
 
