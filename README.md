@@ -28,8 +28,7 @@ Analisando meus ultimos projetos e trabalhos, acredito que minha maiores soft sk
 
 # Cursos
 
-- Python 2 - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas
-  Curso de Python com Django e Bootstrap
+- Python 2 - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas (Curso de Python com Django e Bootstrap)
 
 # Projetos
 
@@ -46,6 +45,7 @@ Analisando meus ultimos projetos e trabalhos, acredito que minha maiores soft sk
 |     Jogo da Memoria | Jogo da Memoria para o navegador             | HTML, CSS, JavaScript, PHP, MySQL                  | [Link](https://github.com/A5Rezende/JogaDaMemoria)           |
 |   Gestor de Elencos | Sistema para gerir elencos no EAFC           | HTML, CSS, Bootstrap, JavaScript, Node.JS, MongoDB | [Link](https://github.com/A5Rezende/GestorDeElencosEAFC)     |
 | Sistema Veterinario | Sistema Veterinario para Desktop             | Java                                               | [Link](https://github.com/A5Rezende/SistemaVeterinario_Java) |
+|   Sistema de Vendas | Sistema de vendas de Produtos com Parcelamento | PHP, Laravel, HTML, CSS, JavaScript, PostgreSQL  | [Link](https://github.com/A5Rezende/SistemaVendasDC)         |
 
 # Linguas (Niveis CEFR)
 
