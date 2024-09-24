@@ -29,6 +29,7 @@ Analisando meus ultimos projetos e trabalhos, acredito que minha maiores soft sk
 # Cursos
 
 - Python 2 - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas
+  Curso de Python com Django e Bootstrap
 
 # Projetos
 
