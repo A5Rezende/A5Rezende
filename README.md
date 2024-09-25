@@ -46,7 +46,8 @@ Analisando meus ultimos projetos e trabalhos, acredito que minha maiores soft sk
 |   Gestor de Elencos | Sistema para gerir elencos no EAFC           | HTML, CSS, Bootstrap, JavaScript, Node.JS, MongoDB | [Link](https://github.com/A5Rezende/GestorDeElencosEAFC)     |
 | Sistema Veterinario | Sistema Veterinario para Desktop             | Java                                               | [Link](https://github.com/A5Rezende/SistemaVeterinario_Java) |
 |   Sistema de Vendas | Sistema de vendas de Produtos com Parcelamento | PHP, Laravel, HTML, CSS, Bootstrap, JavaScript, PostgreSQL  | [Link](https://github.com/A5Rezende/SistemaVendasDC)         |
-|   Lista de Tarefas | Lista de Tarefas com Usuarios | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link]([https://github.com/A5Rezende/SistemaVendasDC](https://github.com/A5Rezende/Sistema_ListaDeTarefas_Django))         |
+|   Lista de Tarefas | Lista de Tarefas com Usuarios | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | 
+[Link]([https://github.com/A5Rezende/SistemaVendasDC](https://github.com/A5Rezende/Sistema_ListaDeTarefas_Django))|
 
 # Linguas (Niveis CEFR)
 
