@@ -1,34 +1,35 @@
 # 👋 Hi, meu nome é Antônio Rezende
 
-Sou Desenvolvedor full-stack com 2 anos de experiência profissional e 7 anos como estudante de programção
+Sou um Desenvolvedor Full Stack com 2 anos de experiência profissional e 7 anos estudando programação. Tenho paixão por resolver problemas com código e criar soluções que impactem positivamente pessoas e negócios. Atualmente, foco no desenvolvimento de sistemas web robustos e escaláveis usando tecnologias modernas como Laravel, Node.js e Django.
 
 # Hard Skills
 
-|   Conhecimentos | Linguagens                                 |
-| --------------: | ------------------------------------------ |
-|       Front-end | HTML, CSS, JavaScript                      |
-|        Back-end | PHP, Python, C#, Node.JS, Java             |
-|      Frameworks | Bootstrap, Django, Laravel                 |
-| Bancos de Dados | MySQL, PostgreSQL, MongoDB                 |
-|     Ferramentas | Git, Docker                                |
+|   Conhecimentos | Linguagens                                           |
+| --------------: | -----------------------------------------------------|
+|       Front-end | HTML, CSS, JavaScript, Bootstrap                     |
+|        Back-end | PHP (Laravel), Python (Django), Node.js, Java, C#    |
+| Bancos de Dados | MySQL, PostgreSQL, MongoDB                           |
+|     Ferramentas | Git, GitHub, GitLab, Figma, Trello, API Rest         |
 
 # Soft Skills
 
-Analisando meus ultimos projetos e trabalhos, acredito que minha maiores soft skills são:
+Com base nos feedbacks dos meus últimos projetos, destaco minhas principais soft skills:
 
-- Trabalho em Equipe
-- Proativo
-- Comunicativo
-- Gosto de aprender coisas novas
+- Trabalho em equipe
+- Proatividade
+- Comunicação clara
+- Facilidade de aprendizado
 
-# Resumo Acadêmico
+## 🎓 Formação Acadêmica
 
-- Graduação - Analise e Desenvolvimento de Sistemas ( Jan/2021 - Dez/2024 ) - Unicamp
-- Técnico - Desenvolvimento de Sistemas (Jan/2018 - Dez/2020) - Cotil
+- Graduação em Análise e Desenvolvimento de Sistemas – Unicamp (Jan/2021 – Dez/2025)  
+- Técnico em Desenvolvimento de Sistemas – Cotil (Jan/2018 – Dez/2020)
 
 # Cursos
 
 - Python 2 - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas (Curso de Python com Django e Bootstrap)
+- Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS - 2025 - Carga horaria: 57 horas
+- JavaScript e TypeScript do básico ao avançado JS/TS - 2024 - Carga horaria: 146 horas
 
 # Projetos
 
