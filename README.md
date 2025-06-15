@@ -38,6 +38,14 @@ Com base nos feedbacks dos meus últimos projetos, destaco minhas principais sof
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A5Rezende&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A5Rezende&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+- Principais Projetos (Profissionais)
+
+| Nome do Projeto             | Período                | Descrição                                                                                                                                                                                                                   | Tecnologias Utilizadas                                           |
+|-----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Sistema Empresarial Personalizado | out. 2024 – mai. 2025 | Atuei como desenvolvedor responsável pela manutenção, atualização e evolução de um sistema empresarial já existente, realizando ajustes, correções de bugs, criação de APIs e melhorias de performance.                    | PHP, Laravel, Node.js, React, JavaScript, AWS                    |
+| Sistema Web Industrial      | nov. 2024 – mai. 2025  | Atuei como desenvolvedor Full Stack em uma equipe, implementando funcionalidades com Laravel no backend e Bootstrap no frontend, além de modelar e manter os bancos de dados MySQL e PostgreSQL.                           | Laravel, JavaScript, Bootstrap, MySQL, PostgreSQL, Figma         |
+| Sistema Web Corporativo     | nov. 2024 – fev. 2025  | Trabalhei como Full Stack Developer, sendo responsável por implementar funcionalidades no backend (Laravel) e frontend (Bootstrap e JS), além de atuar na modelagem e manutenção do banco de dados.                        | Laravel, JavaScript, Bootstrap, MySQL                            |
+
 - Principais Projetos (Pessoais ou Academicos)
 
 |     Nome do Projeto | Descrição                                    | Linguagens Utilizadas                              | Link                                                         |
