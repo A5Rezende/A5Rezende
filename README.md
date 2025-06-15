@@ -29,7 +29,7 @@ Com base nos feedbacks dos meus últimos projetos, destaco minhas principais sof
 
 - Python 2 - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas (Curso de Python com Django e Bootstrap)
 - Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS - 2025 - Carga horaria: 57 horas
-- JavaScript e TypeScript do básico ao avançado JS/TS - 2024 - Carga horaria: 146 horas
+- JavaScript e TypeScript do básico ao avançado JS/TS - 2024 - Carga horaria: 146 horas (Curso de JavaScript com Node)
 
 # Projetos
 
