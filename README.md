@@ -1,6 +1,6 @@
 # 👋 Hi, meu nome é Antônio Rezende
 
-Sou um Desenvolvedor Full Stack com 2 anos de experiência profissional e 7 anos estudando programação. Tenho paixão por resolver problemas com código e criar soluções que impactem positivamente pessoas e negócios. Atualmente, foco no desenvolvimento de sistemas web robustos e escaláveis usando tecnologias modernas como Laravel, Node.js e Django.
+Sou um Desenvolvedor Full Stack com 2 anos de experiência profissional e 8 anos estudando programação. Tenho paixão por resolver problemas com código e criar soluções que impactem positivamente pessoas e negócios. Atualmente, foco no desenvolvimento de sistemas web robustos e escaláveis usando tecnologias modernas como Laravel, Node.js e Django.
 
 # Hard Skills
 
