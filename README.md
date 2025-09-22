@@ -7,9 +7,9 @@ Sou um Desenvolvedor Full Stack com 2 anos de experiência profissional e 8 anos
 |   Conhecimentos | Linguagens                                           |
 | --------------: | -----------------------------------------------------|
 |       Front-end | HTML, CSS, JavaScript, Bootstrap                     |
-|        Back-end | PHP (Laravel), Python (Django), Node.js, Java, C#    |
+|        Back-end | PHP (Laravel), Python (Django), Node.js              |
 | Bancos de Dados | MySQL, PostgreSQL, MongoDB                           |
-|     Ferramentas | Git, GitHub, GitLab, Figma, Trello, API Rest         |
+|     Ferramentas | Git, GitHub, GitLab, Trello, API Rest                |
 
 # Soft Skills
 
