@@ -1,19 +1,17 @@
-# 👋 Hi, meu nome é Antônio Rezende
+# 👋 Olá, meu nome é Antônio Rezende
 
-Sou um Desenvolvedor Full Stack com 2 anos de experiência profissional e 8 anos estudando programação. Tenho paixão por resolver problemas com código e criar soluções que impactem positivamente pessoas e negócios. Atualmente, foco no desenvolvimento de sistemas web robustos e escaláveis usando tecnologias modernas como Laravel, Node.js e Django, além de ter conhecimentos em React e Bootstrap.
+Sou Desenvolvedor Full Stack com cerca de 2 anos de experiência profissional e mais de 8 anos estudando programação. Tenho paixão por resolver problemas com código e criar soluções que impactem positivamente pessoas e negócios. Atualmente, foco no desenvolvimento de sistemas web robustos e escaláveis usando tecnologias modernas como Laravel, Node.js e Django, além de ter conhecimentos em React e Bootstrap.
 
-# Hard Skills
+## Hard Skills
 
 |   Conhecimentos | Linguagens                                           |
 | --------------: | -----------------------------------------------------|
-|       Front-end | HTML, CSS, JavaScript, JS (React), Bootstrap         |
-|        Back-end | PHP (Laravel), Python (Django), JS (Node.js)         |
+|       Front-end | HTML, CSS, JavaScript, JavaScript (React), Bootstrap |
+|        Back-end | PHP (Laravel), Python (Django), JavaScript (Node.js) |
 | Bancos de Dados | MySQL, PostgreSQL, MongoDB                           |
-|     Ferramentas | Git, GitHub, GitLab, Trello, API Rest                |
+|     Ferramentas | Git, GitHub, GitLab, Trello, REST APIs               |
 
-# Soft Skills
-
-Com base nos feedbacks dos meus últimos projetos, destaco minhas principais soft skills:
+## Soft Skills
 
 - Trabalho em equipe
 - Proatividade
@@ -25,14 +23,14 @@ Com base nos feedbacks dos meus últimos projetos, destaco minhas principais sof
 - Graduação em Análise e Desenvolvimento de Sistemas – Unicamp (Jan/2021 – Dez/2025)  
 - Técnico em Desenvolvimento de Sistemas – Cotil (Jan/2018 – Dez/2020)
 
-# Cursos
+## Cursos
 
-- React - Desenvolvedor Web Front-end - 2025 - Carga horaria: 60 horas
-- Django - Desenvolvendo Aplicações Web - 2024 - Carga horaria: 60 horas (Curso de Python com Django e Bootstrap)
-- Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS - 2025 - Carga horaria: 57 horas
-- JavaScript e TypeScript do básico ao avançado JS/TS - 2024 - Carga horaria: 146 horas (Curso de JavaScript com Node)
+- React – Desenvolvedor Web Front-end (60h) – 2025
+- Django – Desenvolvendo Aplicações Web (60h) – 2024
+- Desenvolvimento Web Avançado com PHP, Laravel e Vue.js (57h) – 2025
+- JavaScript e TypeScript do Básico ao Avançado (146h) – 2024
 
-# Projetos
+## Projetos
 
 - Principais Projetos (Profissionais)
 
@@ -52,7 +50,7 @@ Com base nos feedbacks dos meus últimos projetos, destaco minhas principais sof
 |     Jogo da Memoria | Jogo da Memoria para o navegador.    | HTML, CSS, JavaScript, PHP, MySQL                  | [Link](https://github.com/A5Rezende/JogaDaMemoria)           |
 |   Lista de Tarefas | Lista de Tarefas com Usuarios. | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link](https://github.com/A5Rezende/Sistema_ListaDeTarefas_Django)|
 
-# Linguas (Niveis CEFR)
+## Idiomas (Niveis CEFR)
 
 - Português: C2
 - Inglês: A2 (Em estudo)
