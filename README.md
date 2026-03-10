@@ -45,7 +45,7 @@ Sou Desenvolvedor Full Stack com cerca de 2 anos de experiência profissional e 
 |     Nome do Projeto | Descrição                                    | Tecnologias Utilizadas                              | Link                                                         |
 | ------------------: | -------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------ |
 |Controle Financeiro Pessoal | Sistema full stack com Django REST e React para gerenciamento financeiro. | HTML, CSS, Bootstrap, JavaScript, React, Python, Django, API Rest | [Link](https://github.com/A5Rezende/ControleFinanceiroPessoal) |
-|   Sistema de Vendas | Sistema em Django para gestão de vendas com parcelamento. | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link](https://github.com/A5Rezende/vendas_semeq)|
+|   Sistema de Vendas | Sistema em Django para gestão de vendas. | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link](https://github.com/A5Rezende/vendas_semeq)|
 |   Sistema de Vendas | Sistema em Laravel para gestão de vendas com parcelamento. | PHP, Laravel, HTML, CSS, Bootstrap, JavaScript, PostgreSQL  | [Link](https://github.com/A5Rezende/SistemaVendasDC)         |
 |   Gestor de Elencos | Aplicação Node.js para gerenciamento de elencos de futebol no EAFC. | HTML, CSS, Bootstrap, JavaScript, Node.JS, MongoDB | [Link](https://github.com/A5Rezende/GestorDeElencosEAFC)     |
 |     Jogo da Memoria | Jogo da Memoria para o navegador.    | HTML, CSS, JavaScript, PHP, MySQL                  | [Link](https://github.com/A5Rezende/JogaDaMemoria)           |
