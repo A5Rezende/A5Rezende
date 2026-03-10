@@ -46,11 +46,11 @@ Com base nos feedbacks dos meus últimos projetos, destaco minhas principais sof
 
 |     Nome do Projeto | Descrição                                    | Linguagens Utilizadas                              | Link                                                         |
 | ------------------: | -------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------ |
-|Controle Financeiro Pessoal | Sistema de finanças pessoais | HTML, CSS, Bootstrap, JavaScript, React, Python, Django, API Rest | [Link](https://github.com/A5Rezende/Agenda)                  |
-|   Sistema de Vendas | Sistema de vendas de Produtos com Parcelamento | PHP, Laravel, HTML, CSS, Bootstrap, JavaScript, PostgreSQL  | [Link](https://github.com/A5Rezende/SistemaVendasDC)         |
-|   Gestor de Elencos | Sistema para gerir elencos no EAFC           | HTML, CSS, Bootstrap, JavaScript, Node.JS, MongoDB | [Link](https://github.com/A5Rezende/GestorDeElencosEAFC)     |
-|     Jogo da Memoria | Jogo da Memoria para o navegador    | HTML, CSS, JavaScript, PHP, MySQL                  | [Link](https://github.com/A5Rezende/JogaDaMemoria)           |
-|   Lista de Tarefas | Lista de Tarefas com Usuarios | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link](https://github.com/A5Rezende/Sistema_ListaDeTarefas_Django)|
+|Controle Financeiro Pessoal | Sistema full stack com Django REST e React para gerenciamento financeiro. | HTML, CSS, Bootstrap, JavaScript, React, Python, Django, API Rest | [Link](https://github.com/A5Rezende/ControleFinanceiroPessoal) |
+|   Sistema de Vendas | Sistema em Laravel para gestão de vendas com parcelamento. | PHP, Laravel, HTML, CSS, Bootstrap, JavaScript, PostgreSQL  | [Link](https://github.com/A5Rezende/SistemaVendasDC)         |
+|   Gestor de Elencos | Aplicação Node.js para gerenciamento de elencos de futebol no EAFC. | HTML, CSS, Bootstrap, JavaScript, Node.JS, MongoDB | [Link](https://github.com/A5Rezende/GestorDeElencosEAFC)     |
+|     Jogo da Memoria | Jogo da Memoria para o navegador.    | HTML, CSS, JavaScript, PHP, MySQL                  | [Link](https://github.com/A5Rezende/JogaDaMemoria)           |
+|   Lista de Tarefas | Lista de Tarefas com Usuarios. | Python, Django, HTML, CSS, Bootstrap, PostgreSQL  | [Link](https://github.com/A5Rezende/Sistema_ListaDeTarefas_Django)|
 
 # Linguas (Niveis CEFR)
 
